@@ -1,0 +1,7 @@
+flask>=3.0.0
+flask-cors>=4.0.0
+stix2>=3.0.1
+networkx>=3.0
+pyvis>=0.3.2
+requests>=2.31.0
+python-dateutil>=2.8.2
